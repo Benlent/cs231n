@@ -1,2 +1,2 @@
 # cs231n
-Stanford CS231n
+Assignment Code of Stanford CS231n
